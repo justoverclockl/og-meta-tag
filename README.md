@@ -5,7 +5,17 @@
 A [Flarum](http://flarum.org) extension. Add Open Graph Meta Tag to Flarum
 
 ![1](https://user-images.githubusercontent.com/79002016/127065466-2b1c2f22-7c34-4ebe-b820-1f92aefbf2e7.png)
-![2](https://user-images.githubusercontent.com/79002016/127065470-18ec0e2e-8665-4fc8-91e9-d5c505f3568b.png)
+
+### Output Example
+
+```php
+<meta property="og:site_name" content="Website Name">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://url-to-my.jpg">
+<meta property="og:description" content="Flarum is the best forum in the world.">
+<meta property="og:title" content="Flarum Developer">
+<meta property="og:url" content="https://flarum.it">
+```
 
 
 ### Installation
