@@ -1,6 +1,6 @@
 # Og Meta Tag
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/justoverclock/og-meta-tag.svg)](https://packagist.org/packages/justoverclock/og-meta-tag) [![Total Downloads](https://img.shields.io/packagist/dt/justoverclock/og-meta-tag.svg)](https://packagist.org/packages/justoverclock/og-meta-tag)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://poser.pugx.org/justoverclock/og-meta-tag/v)](https://packagist.org/packages/justoverclock/og-meta-tag) [![Total Downloads](https://poser.pugx.org/justoverclock/og-meta-tag/downloads)](https://packagist.org/packages/justoverclock/og-meta-tag)
 
 A [Flarum](http://flarum.org) extension. Add Open Graph Meta Tag to Flarum
 
