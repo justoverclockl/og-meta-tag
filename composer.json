@@ -1,0 +1,43 @@
+{
+  "name": "justoverclock/og-meta-tag",
+  "description": "Add Open Graph Meta Tag to Flarum",
+  "keywords": [
+    "open graph",
+    "meta tag"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0"
+  },
+  "require-dev": {
+    "flarum/testing": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Marco Colia",
+      "email": "info@flarum.it",
+      "role": "Developer",
+      "homepage": "https://flarum.it"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Justoverclock\\OgMetaTag\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Og Meta Tag",
+      "category": "",
+      "icon": {
+        "name": "fas fa-code",
+        "backgroundColor": "green",
+        "color": "white"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
